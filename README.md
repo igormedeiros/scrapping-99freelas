@@ -17,11 +17,13 @@ Ensure you have the following installed:
 To install the required Python libraries, activate your virtual environment and run:
 ```bash
 pip install -r requirements.txt
+```
 
 ## Usage
 Once you've activated your virtual environment and installed the prerequisites:
 ```bash
 python scraper_99freelas.py
+```
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
