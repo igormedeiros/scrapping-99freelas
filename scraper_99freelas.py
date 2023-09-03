@@ -4,8 +4,8 @@ Web Scraper for 99freelas.com.br
 Author: Igor Medeiros
 Email: igor.medeiros@gmail.com
 WhatsApp: +5511950016111
-GitHub: [Your GitHub URL here, if you have one]
-Date: [Current date, e.g., '01/09/2023']
+GitHub: https://github.com/igormedeiros
+Date: 01/set/2023
 
 Description:
 This script fetches projects related to 'Automação Python' from 99freelas.com.br
